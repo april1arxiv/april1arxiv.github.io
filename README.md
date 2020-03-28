@@ -3,6 +3,6 @@
 
 Please email april1arxiv@outlook.com to suggest papers to post
 
-Maintained by [![Twitter](/assets/img/icon-twitter.png "Twitter")]((https://twitter.com/PMocz)) [@PMocz](https://twitter.com/PMocz)
+Maintained by [![Twitter](/assets/img/icon-twitter.png "@PMocz")](https://twitter.com/PMocz) [@PMocz](https://twitter.com/PMocz)
 
 
