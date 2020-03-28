@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "A Farewell to Falsifiability"
+authors: "Douglas Scott, Ali Frolop, Ali Narimani, Andrei Frolov"
+arXiv: "1504.00108"
+date:   2015-04-01 16:00:00 -0400
+#main-class: 'physics'
+color: '#B31917'
+tags:
+- physics
+- astro
+categories:
+twitter_text: "April Fools arXiv paper"
+introduction: "Some of the most obviously correct physical theories - namely string theory and the multiverse - make no testable predictions..."
+---
+
+Some of the most obviously correct physical theories - namely string theory and the multiverse - make no testable predictions, leading many to question whether we should accept something as scientific even if it makes no testable predictions and hence is not refutable. However, some far-thinking physicists have proposed instead that we should give up on the notion of Falsifiability itself. We endorse this suggestion but think it does not go nearly far enough. We believe that we should also dispense with other outdated ideas, such as Fidelity, Frugality, Factuality and other "F" words. And we quote a lot of famous people to support this view.

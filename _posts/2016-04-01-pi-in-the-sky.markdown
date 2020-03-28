@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Pi in the sky"
+authors: "Ali Frolop, Douglas Scott"
+arXiv: "1603.09703"
+date:   2016-04-01 16:00:00 -0400
+#main-class: 'astro'
+color: '#B31917'
+tags:
+- astro
+- math
+- stats
+categories:
+twitter_text: "April Fools arXiv paper"
+introduction: "Deviations of the observed cosmic microwave background (CMB) from the standard model ..."
+---
+
+Deviations of the observed cosmic microwave background (CMB) from the standard model, known as "anomalies", are obviously highly significant and deserve to be pursued more aggressively in order to discover the physical phenomena underlying them. Through intensive investigation we have discovered that there are equally surprising features in the digits of the number π, and moreover there is a remarkable correspondence between each type of peculiarity in the digits of π and the anomalies in the CMB. Putting aside the unreasonable possibility that these are just the sort of flukes that appear when one looks hard enough, the only conceivable conclusion is that, however the CMB anomalies were created, a similar process imprinted patterns in the digits of π.
