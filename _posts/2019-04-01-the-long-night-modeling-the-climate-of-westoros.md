@@ -4,8 +4,6 @@ title:  "The Long Night: Modeling the Climate of Westeros"
 authors: "Adiv Paradise, Alysa Obertas, Anna O'Grady, Matthew Young"
 arXiv: "1903.12195"
 date:   2019-04-01 16:00:00 -0400
-#main-class: 'climate'
-color: '#B31917'
 tags:
 - climate
 - physics

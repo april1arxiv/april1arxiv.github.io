@@ -4,8 +4,6 @@ title:  "Pi in the sky"
 authors: "Ali Frolop, Douglas Scott"
 arXiv: "1603.09703"
 date:   2016-04-01 16:00:00 -0400
-#main-class: 'astro'
-color: '#B31917'
 tags:
 - astro
 - math

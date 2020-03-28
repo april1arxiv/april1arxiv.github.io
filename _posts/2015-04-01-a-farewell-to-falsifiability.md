@@ -4,8 +4,6 @@ title:  "A Farewell to Falsifiability"
 authors: "Douglas Scott, Ali Frolop, Ali Narimani, Andrei Frolov"
 arXiv: "1504.00108"
 date:   2015-04-01 16:00:00 -0400
-#main-class: 'physics'
-color: '#B31917'
 tags:
 - physics
 - astro

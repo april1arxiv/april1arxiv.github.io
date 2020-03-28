@@ -4,8 +4,6 @@ title:  "MemGEN: Memory is All You Need"
 authors: "Sylvain Gelly, Karol Kurach, Marcin Michalski, Xiaohua Zhai"
 arXiv: "1803.11203"
 date:   2018-04-01 16:00:00 -0400
-#main-class: 'comp-sci'
-color: '#B31917'
 tags:
 - comp-sci
 - machine-learning
