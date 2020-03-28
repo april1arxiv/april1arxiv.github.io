@@ -9,8 +9,8 @@
             <article role="article" id="post" class="post-content" itemprop="articleBody">
                 {{ content }}
                         {% if page.arXiv %}
-        <p><a href="https://arxiv.org/abs/{{page.arXiv}}"><u>arXiv:{{page.arXiv}}</u></a></p>
-        <p> <img itemprop="image" src="/assets/img/{{page.arXiv}}.png" alt="{{page.arXiv}}" width="400" > </p> 
+        <p><a href="https://arxiv.org/abs/{{page.arXivprefix}}{{page.arXiv}}"><u>arXiv:{{page.arXivprefix}}{{page.arXiv}}</u></a></p>
+        <p> <img itemprop="image" src="/assets/img/{{page.arXiv}}.png" alt="{{post.arXivprefix}}{{page.arXiv}}" width="400" > </p> 
         {% endif %}
             </article>
 

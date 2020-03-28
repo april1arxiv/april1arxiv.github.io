@@ -21,13 +21,13 @@ layout: default
                     <p class="description">{{ post.authors }}</p>
                 </a>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                <p> <img itemprop="image" src="/assets/img/{{post.arXiv}}.png" alt="{{post.arXiv}}" width="240" > </p> 
+                <p> <img itemprop="image" src="/assets/img/{{post.arXiv}}.png" alt="{{post.arXivprefix}}{{post.arXiv}}" width="240" > </p> 
                 </a>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                     <p class="description">{{ post.introduction }}</p>
                 </a>
                 <article class="post-content" >
-                <a href="https://arxiv.org/abs/{{post.arXiv}}">arXiv:{{post.arXiv}}</a>
+                <a href="https://arxiv.org/abs/{{post.arXivprefix}}{{post.arXiv}}">arXiv:{{post.arXivprefix}}{{post.arXiv}}</a>
                 <p></p>
                 <div class="tags">
                     {% for tag in post.tags %}
