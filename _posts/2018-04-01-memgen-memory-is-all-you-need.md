@@ -11,7 +11,7 @@ tags:
 - machine-learning
 categories:
 twitter_text: "April Fools arXiv paper"
-introduction: "We propose a new learning paradigm called Deep Memory. It has the potential to..."
+introduction: "We propose a new learning paradigm called Deep Memory. It has the potential to ..."
 ---
 
 We propose a new learning paradigm called Deep Memory. It has the potential to completely revolutionize the Machine Learning field. Surprisingly, this paradigm has not been reinvented yet, unlike Deep Learning. At the core of this approach is the \textit{Learning By Heart} principle, well studied in primary schools all over the world.
