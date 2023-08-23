@@ -34,7 +34,7 @@ links:
     url: /about
 
 # Google services
-google_analytics: UA-136974463-2
+google_analytics: G-T9BN62YQ4G
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
